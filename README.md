@@ -1,4 +1,4 @@
-### Hi there 👋 I am Danielle Clark. I am a materials engineering student learning about coding!
+### Hi there 👋 I am Danielle Clark. I am a materials engineering student learning about coding! ...
 
 <!--
 **dnielleclark/dnielleclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
